@@ -1,5 +1,10 @@
 # QR Code Generator
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c9957a69-f6ad-47a0-b9f6-a952d56e94e2/deploy-status)](https://app.netlify.com/sites/qrcode-generator-12/deploys)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jamalsalim-js12/QR-Code-Generator)
+![GitHub issues](https://img.shields.io/github/issues/Jamalsalim-js12/QR-Code-Generator)
+![GitHub stars](https://img.shields.io/github/stars/Jamalsalim-js12/QR-Code-Generator)
+
 A simple web application to generate QR codes from text or URLs.
 
 ## Table of Contents
